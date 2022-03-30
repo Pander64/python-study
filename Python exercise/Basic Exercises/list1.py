@@ -48,7 +48,7 @@ def front_x(words):
 
 def last(a):
     return a[-1]
-
+    
 # C. sort_last
 # Given a list of non-empty tuples, return a list sorted in increasing
 # order by the last element in each tuple.
