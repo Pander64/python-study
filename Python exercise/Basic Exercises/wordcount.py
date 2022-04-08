@@ -10,7 +10,7 @@
 Google's Python class
 
 The main() below is already defined and complete. It calls print_words()
-and print_top() functions which you write.
+and print_top() functions which you write. 
 
 1. For the --count flag, implement a print_words(filename) function that counts
 how often each word appears in the text and prints:
